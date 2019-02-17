@@ -1,0 +1,6 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = true
+[remote "origin"]
+	url = /home/mapo/Desktop/TechStuff/tutorials/spring-cloud/spring-cloud-config/config-repo/

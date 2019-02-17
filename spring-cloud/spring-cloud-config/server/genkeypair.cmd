@@ -1,0 +1,1 @@
+keytool -genkeypair -alias config-server-key -keyalg RSA -keysize 4096 -sigalg SHA512withRSA -dname 'CN=Config Server, OU=Spring Cloud, O=Fluxit' -keypass my-k34-s3cr3t -keystore config-server.jks -storepass my-s70r3-s3cr3t
